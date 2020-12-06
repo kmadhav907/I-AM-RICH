@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 **Step 1**
 
-Download or clone the [flutter-examples](https://github.com/kmadhav907/I-AM-RICH) repository into your machine.
+Download or clone the [I am Rich](https://github.com/kmadhav907/I-AM-RICH) repository into your machine.
 
 **Step 2**
 
